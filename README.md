@@ -5,3 +5,7 @@ Pac-Man és un videojoc d'arcade clàssic llançat el 1980 per Namco. El jugador
 ## Jugar online
 
 Jugar a Pac-Man online aquí: [Pac-Man Gratis](https://pacmangratis.net/)
+
+## Captura del joc
+
+![Captura de Pac-Man](/pacman-git./pacman.png)
