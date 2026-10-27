@@ -13,5 +13,5 @@ Jugar a Pac-Man online aquí: [Pac-Man Gratis](https://pacmangratis.net/)
 
 =======
 ## Fantasmes
-
 - [Blinky](blinky.md)
+- [Pinky](pinky.md)
